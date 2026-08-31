@@ -15,7 +15,11 @@ readme.md tekstitiedosto tehty ja aloitettu
  tehty harjoituksen vuoksi uusi nimi.py testi, muista tuo loppuliite jotta toimii
  lisätty moduuli-kansioita lisää harjoituksen vuoksi
  tehty omatestailukansio, jossa omia kokeiluja eri versioita yms
- ajettu kaikki muutokset Git repositoriaan
+ ajettu kaikki muutokset Git repositorioon, vielä pari ajoa testin vuoksi
  
+
+
+ 
+
 
  

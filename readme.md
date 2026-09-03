@@ -16,7 +16,8 @@ readme.md tekstitiedosto tehty ja aloitettu
  lisätty moduuli-kansioita lisää harjoituksen vuoksi
  tehty omatestailukansio, jossa omia kokeiluja eri versioita yms
  ajettu kaikki muutokset Git repositorioon, vielä pari ajoa testin vuoksi
- 
+ 3.9 tehtävien teko, assistenttien etävastaanotto 17-18
+ tehtävät 1 ja 2 tehty yhdessä Hennan kanssa, Petran avustuksella
 
 
  

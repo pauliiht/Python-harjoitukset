@@ -11,6 +11,7 @@ readme.md tekstitiedosto tehty ja aloitettu
  VS Codesta Publish to GitHub ei toiminut, yritetty moneen kertaan ja kaikilla ehdotetuilla tavoilla. Joku tieto ei täsmännyt koska ei  löytänyt Gitiin
  Tekoälyä testattu, ja muutaman kokeilun jälkeen saatu toimimaan!
 
+## Moduuli 2
  Ensimmäinen luento 31.8.2026:
  tehty harjoituksen vuoksi uusi nimi.py testi, muista tuo loppuliite jotta toimii
  lisätty moduuli-kansioita lisää harjoituksen vuoksi

@@ -1,4 +1,4 @@
-# Python harjoitukset
+.# Python harjoitukset
 **Pauliina Turkulainen**
 
 ## Moduuli 1
@@ -23,6 +23,6 @@ readme.md tekstitiedosto tehty ja aloitettu
  ## 10.9 tunnin alussa käyty kotitehtävät läpi, eihän toi 6 tehtävä ollu vaikee mutta kun ei vaan auennut ni ei. yhdessä kun käy läpi niin tuntuu niin selkeältä.
 
  ## Moduuli 3
-Valintarakenne (if)
-Lauseke (statement)
-Lohko (block)
+Valintarakenne (if, else, elif)
+kotitehtävät 1-4 palautus 13.9.2026, pyri tekemään 11.9.2026
+

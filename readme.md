@@ -20,9 +20,13 @@ readme.md tekstitiedosto tehty ja aloitettu
  3.9 tehtävien teko, assistenttien etävastaanotto 17-18
  tehtävät 1 ja 2 tehty yhdessä Hennan kanssa, Petran avustuksella. Tehtävät 3 ja 4 meni jo ok, edellisten pohjalta. Tehtävä 5 sen sijaan ei meinaa aueta, mikä laskukaava puuttuu? Tähän sain vähän kaverilta jeesiä, taitaa ehkä onnistua! Tehtävä 6 ei onnistunut
 
- ## 10.9 tunnin alussa käyty kotitehtävät läpi, eihän toi 6 tehtävä ollu vaikee mutta kun ei vaan auennut ni ei. yhdessä kun käy läpi niin tuntuu niin selkeältä.
+ ## 10.9 luento
+ tunnin alussa käyty kotitehtävät läpi, eihän toi 6 tehtävä ollu vaikee mutta kun ei vaan auennut ni ei. yhdessä kun käy läpi niin tuntuu niin selkeältä.
 
  ## Moduuli 3
 Valintarakenne (if, else, elif)
-kotitehtävät 1-4 palautus 13.9.2026, pyri tekemään 11.9.2026
+kotitehtävät 1-4 palautus 13.9.2026, pyri tekemään 11.9.2026 aloitettu luennon jälkeen.
+VS Code sekoili, kun herjasi "could not convert to string to float" vaikka oli ihan oikein. korjaantui kun suljin ja käynnistin ohjelmat uudestaan.
+Hei sain kaikki tehtävät tehtyä! Varmaan olisi löytynyt helpommatkin reitit, mutta testaamalla ainakin näytti toimivan kuten tehtävänannossa pyyydettiin. Tehtävä 3 vaikein.
+
 

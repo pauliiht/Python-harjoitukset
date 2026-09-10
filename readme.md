@@ -20,10 +20,9 @@ readme.md tekstitiedosto tehty ja aloitettu
  3.9 tehtävien teko, assistenttien etävastaanotto 17-18
  tehtävät 1 ja 2 tehty yhdessä Hennan kanssa, Petran avustuksella. Tehtävät 3 ja 4 meni jo ok, edellisten pohjalta. Tehtävä 5 sen sijaan ei meinaa aueta, mikä laskukaava puuttuu? Tähän sain vähän kaverilta jeesiä, taitaa ehkä onnistua! Tehtävä 6 ei onnistunut
 
+ ## 10.9 tunnin alussa käyty kotitehtävät läpi, eihän toi 6 tehtävä ollu vaikee mutta kun ei vaan auennut ni ei. yhdessä kun käy läpi niin tuntuu niin selkeältä.
 
-
-
- 
-
-
- 
+ ## Moduuli 3
+Valintarakenne (if)
+Lauseke (statement)
+Lohko (block)

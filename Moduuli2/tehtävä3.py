@@ -14,4 +14,8 @@ pinta_ala = kanta * korkeus
 print ("piiri:", piiri, "pinta_ala:", pinta_ala)
 
 
+## float ja input voi laittaa samalle riville:
+## kanta = float(input("Anna suorakulmion kanta: ")) jne
 
+
+## print(f"Suorakulmion piiri on: {piiri}")

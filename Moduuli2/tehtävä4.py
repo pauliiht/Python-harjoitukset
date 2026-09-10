@@ -16,3 +16,8 @@ keskiarvo = summa / 3
 print ("Lukujen summa on", summa)
 print ("Lukujen tulo on", tulo)
 print ("Lukujen keskiarvo on", keskiarvo)
+
+## vois kysyä samalla rivillä INT JA INPUT:
+## kokonaisluku1 = int(input("Anna ensimmäinen kokonaisluku: "))
+
+

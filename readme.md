@@ -29,4 +29,8 @@ kotitehtävät 1-4 palautus 13.9.2026, pyri tekemään illalla luennon jälkeen.
 VS Code sekoili, kun herjasi "could not convert to string to float" vaikka oli ihan oikein. korjaantui kun suljin ja käynnistin ohjelmat uudestaan.
 Hei sain kaikki tehtävät tehtyä! Varmaan olisi löytynyt helpommatkin reitit, mutta testaamalla ainakin näytti toimivan kuten tehtävänannossa pyyydettiin. Tehtävä 3 vaikein.
 
+## Moduuli 4
+Alkuehdollinen toistorakenne (while)
+käyty luennon diat läpi jälkikäteen kun en päässyt luennolle livenä, yritetään tehdä tämän pohjalta kotitehtävät, vaikuttaa suht selkeältä...
+
 

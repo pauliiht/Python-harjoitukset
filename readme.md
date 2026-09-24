@@ -31,6 +31,10 @@ Hei sain kaikki tehtävät tehtyä! Varmaan olisi löytynyt helpommatkin reitit,
 
 ## Moduuli 4
 Alkuehdollinen toistorakenne (while)
-käyty luennon diat läpi jälkikäteen kun en päässyt luennolle livenä, yritetään tehdä tämän pohjalta kotitehtävät, vaikuttaa suht selkeältä...
+käyty luennon diat läpi jälkikäteen kun en päässyt luennolle livenä, yritetään tehdä tämän pohjalta kotitehtävät, vaikuttaa suht selkeältä mutta katsotaan miten käy.
+Tehtävät 1-2: ehkä meni ihan ok, pitkän kaavan kautta aloitettu, kunnes tajuttu että helpommallakin pääsee, meniköhän oikein?
+Tehtävä 3 lähti ihan hyvin liikkeelle mutta en sitten päässyt eteenpäin miten saan pienimmän ja isoimman luvun tulostettua, lisäksi tyjään lopettaminen tuotti virheen vaikka mitä kokeilin.
+Tehtävä 4 ja 5, yritystä moneen suuntaan mutta jäin jumiin enkä saanut ratkottua tehtävää
+
 
 

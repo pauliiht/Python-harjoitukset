@@ -36,5 +36,11 @@ Tehtävät 1-2: ehkä meni ihan ok, pitkän kaavan kautta aloitettu, kunnes taju
 Tehtävä 3 lähti ihan hyvin liikkeelle mutta en sitten päässyt eteenpäin miten saan pienimmän ja isoimman luvun tulostettua, lisäksi tyjään lopettaminen tuotti virheen vaikka mitä kokeilin.
 Tehtävä 4 ja 5, yritystä moneen suuntaan mutta jäin jumiin enkä saanut ratkottua tehtävää
 
+## Moduuli 5
+luento 28.9.kotitehtävät käyty läpi. Hyvä oli saada omiinkin loput ratkaisut kun ei ihan menneet maaliin.
+Aiheena Lista ja toistorakenne (for)
+Lista ja alkiot (arvot), range, listaoperaatiot
+For-toistorakenne toistuu niin kauan kuin alkioita
+
 
 

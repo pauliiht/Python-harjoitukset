@@ -2,7 +2,7 @@
 
 import math
 
-## tuuma = 2.54 cm
+# 1 tuuma = 2.54 cm
 
 while True:
     number = float(input("Anna tuumaluku: "))

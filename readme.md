@@ -41,6 +41,6 @@ luento 28.9.kotitehtävät käyty läpi. Hyvä oli saada omiinkin loput ratkaisu
 Aiheena Lista ja toistorakenne (for)
 Lista ja alkiot (arvot), range, listaoperaatiot
 For-toistorakenne toistuu niin kauan kuin alkioita
-
-
-
+Kotitehtävien teko startattu 1-10 tukiopetuksesta Mikan kanssa
+Vaikeita ovat, yritetään tehdä ainakin niin pitkälle kun mahdollista
+Tehtävät sujui todella vaihtelevasti. Muuten suht ok mutta tehtävää 3 en saanut täysin toimimaan

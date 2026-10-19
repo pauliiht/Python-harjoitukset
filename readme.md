@@ -44,6 +44,7 @@ For-toistorakenne toistuu niin kauan kuin alkioita
 Kotitehtävien teko startattu 1-10 tukiopetuksesta Mikan kanssa
 Vaikeita ovat, yritetään tehdä ainakin niin pitkälle kun mahdollista
 Tehtävät sujui todella vaihtelevasti. Muuten suht ok mutta tehtävää 3 en saanut täysin toimimaan
-Kertaustunti 19.10.2026
+
+## Kertaustunti 19.10.2026
 Kerrattu tähän asti opittuja asioita.
-Aloitettu samalla tekemään kertaustehtäviä, Petran avustuksella sain tehtyä jo jonkin verran zoomin aikana. Jatkettu tämän jälkeen. 9 tehtävä ei kyllä auennut yhtään, jotain yritetty mutta ei juurikaan eteenpäin päästy.
+Aloitettu samalla tekemään kertaustehtäviä, Petran avustuksella sain tehtyä jo jonkin verran zoomin aikana. Jatkettu tämän jälkeen itsenäisesti. 9 tehtävä ei kyllä auennut yhtään, yritetty kaikenlaisia vaihtoehtoja mutta ei juurikaan eteenpäin päästy.

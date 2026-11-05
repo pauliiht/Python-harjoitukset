@@ -1,0 +1,9 @@
+# Forloop toistetaan tietyn kriteerin mukaan
+
+for i in range(20):
+    print("toistetaan")
+    
+    
+# whileloop toistaa niin kauan kunnes tiettyä kriteeriä ei ole enää olemassa
+while True:
+    print("toistetaan")

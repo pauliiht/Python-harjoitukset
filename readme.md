@@ -48,3 +48,6 @@ Tehtävät sujui todella vaihtelevasti. Muuten suht ok mutta tehtävää 3 en sa
 ## Kertaustunti 19.10.2026
 Kerrattu tähän asti opittuja asioita.
 Aloitettu samalla tekemään kertaustehtäviä, Petran avustuksella sain tehtyä jo jonkin verran zoomin aikana. Jatkettu tämän jälkeen itsenäisesti. 9 tehtävä ei kyllä auennut yhtään, yritetty kaikenlaisia vaihtoehtoja mutta ei juurikaan eteenpäin päästy.
+
+## Moduuli 6 kotitehtävien teko aloitettu tukiopetuksella 5.11.2026 klo 16
+Sen jälkeen jatkettu itsenäisesti. Muutama tehtävä saatu jumpattua maaliin, ei vaan edelleenkään logiikka aukene, en tiedä miten pääsen tentistä läpi. 4 tehtävää tehty, jatkuu huomenna.

@@ -51,3 +51,4 @@ Aloitettu samalla tekemään kertaustehtäviä, Petran avustuksella sain tehtyä
 
 ## Moduuli 6 kotitehtävien teko aloitettu tukiopetuksella 5.11.2026 klo 16
 Sen jälkeen jatkettu itsenäisesti. Muutama tehtävä saatu jumpattua maaliin, ei vaan edelleenkään logiikka aukene, en tiedä miten pääsen tentistä läpi. 4 tehtävää tehty, jatkuu huomenna.
+Tehty kotitehtävät ainakin jotenkin loppuun, 6 tehtävään sain vaan yhden pizzan kyselyn, en keksinyt miten kysyy kahden pizzan tiedot ja siitä vertailee.

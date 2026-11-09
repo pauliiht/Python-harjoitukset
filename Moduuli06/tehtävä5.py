@@ -13,6 +13,3 @@ karsittu_lista = parilliset(lista)
 print("Alkuperäinen lista:", lista)
 
 print("Karsittu lista:", karsittu_lista)
-
-
-

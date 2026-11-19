@@ -52,3 +52,10 @@ Aloitettu samalla tekemään kertaustehtäviä, Petran avustuksella sain tehtyä
 ## Moduuli 6 kotitehtävien teko aloitettu tukiopetuksella 5.11.2026 klo 16
 Sen jälkeen jatkettu itsenäisesti. Muutama tehtävä saatu jumpattua maaliin, ei vaan edelleenkään logiikka aukene, en tiedä miten pääsen tentistä läpi. 4 tehtävää tehty, jatkuu huomenna.
 Tehty kotitehtävät ainakin jotenkin loppuun, 6 tehtävään sain vaan yhden pizzan kyselyn, en keksinyt miten kysyy kahden pizzan tiedot ja siitä vertailee.
+
+## Moodle 7 kotitehtävien kimppuun
+En kerennyt tälläkään viikolla tukiopetukseen kun työt venyivät.
+Katsotaan tuleeko tästä mitään.
+Jes eka tehtävä meni aika hyvin, ja pitäisi toimia kuten ohjeistus vaatii.
+Toka tehtäväkin onnistui pienen väännön kautta. Jäin miettimään tuota joukkotietorakennetta, kun jos oikein ymmärsin niin siinä sama nimi tms alkio voi olla vain kerran, niin olisiko tässä pitänyt tehdä jotain toisin jotta olisi loppulistaan tulostanut saman nimen useamman kerran jos se syötettiinkin useamman kerran?
+Kolmas tehtävä ei auennnut sitten millään vaikka aluksi niin uskoinkin. Lähdin varmaan rakentamaan ihan väärästä suunnasta, mutta ei enää aivot toimineet.

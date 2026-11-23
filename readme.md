@@ -59,3 +59,8 @@ Katsotaan tuleeko tästä mitään.
 Jes eka tehtävä meni aika hyvin, ja pitäisi toimia kuten ohjeistus vaatii.
 Toka tehtäväkin onnistui pienen väännön kautta. Jäin miettimään tuota joukkotietorakennetta, kun jos oikein ymmärsin niin siinä sama nimi tms alkio voi olla vain kerran, niin olisiko tässä pitänyt tehdä jotain toisin jotta olisi loppulistaan tulostanut saman nimen useamman kerran jos se syötettiinkin useamman kerran?
 Kolmas tehtävä ei auennnut sitten millään vaikka aluksi niin uskoinkin. Lähdin varmaan rakentamaan ihan väärästä suunnasta, mutta ei enää aivot toimineet.
+
+## 23.11.2026 kotitehtävien teko, kertausta ja tenttiin valmistautumista
+Funktiot, funktion määritelmä ja rakenne alku def, loppu return
+Funktion parametrit, joukko, sanakirja ja niin edelleen. Käy materiaalit läpi.
+Tenttiin valmistautuminen, SafeExam browserin asentaminen (jossa tentti tehdään)

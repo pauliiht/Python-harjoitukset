@@ -18,4 +18,3 @@ while True:
 
 for nimi in nimet:   
     print(nimi) 
-

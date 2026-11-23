@@ -13,7 +13,7 @@ kentat = {"HelsinkiVantaa": "EFHK",
  
 while True:
     komento = input("Valitse haluamasi vaihtoehto: A: syöttää uuden lentoaseman, B: hakea jo syötetyn lentoaseman tiedot vai C: lopettaa haun: ")
-        if komento == "A":
+    if komento == "A":
             icao = input("Anna lentoaseman ICAO-koodi: ")
             kentta = input("Anna lentoaseman nimi: ")
     print("Lentokentän tiedot: {}")
@@ -23,5 +23,4 @@ while True:
         print("Lentokentän tiedot: {}")
         
     if komento == "C":
-        print("Haku päättyy.")
-        
+        print("Haku päättyy.") 

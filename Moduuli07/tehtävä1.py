@@ -14,7 +14,3 @@ if jarjestysnumero in (6, 7, 8):
     print("Vuodenaika on kesä")
 if jarjestysnumero in (9, 10, 11):
     print("Vuodenaika on syksy")
-
-
-    
-    

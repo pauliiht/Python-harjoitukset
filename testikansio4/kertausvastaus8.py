@@ -12,3 +12,4 @@ for k in lista:
     kokonaiskustannus += k
     
 print(f"Valmistuskustannukset ovat yhteensä {kokonaiskustannus:.2f} €")
+

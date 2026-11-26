@@ -60,7 +60,15 @@ Jes eka tehtävä meni aika hyvin, ja pitäisi toimia kuten ohjeistus vaatii.
 Toka tehtäväkin onnistui pienen väännön kautta. Jäin miettimään tuota joukkotietorakennetta, kun jos oikein ymmärsin niin siinä sama nimi tms alkio voi olla vain kerran, niin olisiko tässä pitänyt tehdä jotain toisin jotta olisi loppulistaan tulostanut saman nimen useamman kerran jos se syötettiinkin useamman kerran?
 Kolmas tehtävä ei auennnut sitten millään vaikka aluksi niin uskoinkin. Lähdin varmaan rakentamaan ihan väärästä suunnasta, mutta ei enää aivot toimineet.
 
-## 23.11.2026 kotitehtävien teko, kertausta ja tenttiin valmistautumista
+## 23.11.2026 kotitehtävien läpikäynti, kertausta ja tenttiin valmistautumista
 Funktiot, funktion määritelmä ja rakenne alku def, loppu return
 Funktion parametrit, joukko, sanakirja ja niin edelleen. Käy materiaalit läpi.
-Tenttiin valmistautuminen, SafeExam browserin asentaminen (jossa tentti tehdään)
+Tenttiin valmistautuminen, SafeExam browserin asentaminen (jossa tentti tehdään).
+Asennettu ja testattu testikoe pari kertaa, toimii.
+
+## 26.11.2026 kertaustehtävien teko
+En kerennyt tukiopetukseen mutta käydään näiden kimppuun itse.
+Ekat tehtävät sain ihmeen kaupalla tehtyä. 3 ei ihan mennyt maaliin, jäin jumiin for-loopin kanssa, aivot ei vaan enää saaneet tota auki. bonustehtävä jäi myös ratkaisematta.
+Tietorakennetehtävät ei menneet sen paremmin, eka vielä oli helppo, mutta muut ei ihan vaiheeseen.
+Jään aina jumiin johonkin enkä pääse siitä yli vaikka testaan kaikki mahdolliset vaihtoehdot.
+Jatketaan viikonloppuna tuoreilla aivoilla, nyt jäi niin monta ihan vaiheeseen
